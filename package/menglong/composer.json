@@ -1,0 +1,13 @@
+{
+    "name": "menglong/package",
+    "description": "my first package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Menglong\\Package\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
